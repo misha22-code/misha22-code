@@ -59,7 +59,8 @@ My goal is to build <b>intelligent, data-driven applications</b> by combining mo
 
 <h3>⚙️ Backend & APIs</h3>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/pallets/flask/main/docs/_static/flask-logo.png" width="40" alt="Flask"/>
+
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>

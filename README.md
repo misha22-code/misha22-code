@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Misha Noor</h1>
 
 <h3 align="center">
@@ -172,4 +172,4 @@ University of Sargodha
 ## ✨ Vision
 
 My goal is to become a professional AI Engineer & Full Stack Developer capable of building intelligent software systems that solve real-world business problems through modern technology.
-```
+

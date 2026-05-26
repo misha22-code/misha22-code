@@ -1,89 +1,160 @@
+```md
 <h1 align="center">Hi 👋, I'm Misha Noor</h1>
-<h3 align="center">Flutter & Android Developer transitioning into AI & Machine Learning</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=misha22-code&label=Profile%20views&color=0e75b6&style=flat" alt="misha22-code" />
+<h3 align="center">
+AI & Full Stack Developer | Generative AI Enthusiast | Building Intelligent Web Solutions
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=misha22-code&label=Profile%20Views&color=0e75b6&style=flat" alt="misha22-code" />
 </p>
 
-<!-- INTRO -->
+---
+
+## 🚀 About Me
+
+I am an **AI & Full Stack Developer** with a strong foundation in modern web development, backend engineering, and Generative AI systems.
+
+I specialize in building:
+
+- AI-powered web applications
+- Chatbot systems
+- Flask backend APIs
+- Automation solutions
+- Responsive frontend interfaces
+- Business-focused digital products
+
+Currently focused on combining **Artificial Intelligence + Full Stack Development** to create practical solutions for startups and businesses.
+
+---
+
+## 💼 Current Focus
+
+- 🤖 Generative AI Applications
+- 🌐 Full Stack Web Development
+- ⚡ Flask API Development
+- 💬 AI Chatbot Systems
+- 🔄 Business Automation Tools
+- 🎨 Modern Responsive UI/UX
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+
 <p>
-I am a passionate <b>Mobile Application Developer</b> with strong experience in <b>Flutter and Android development</b>, now exploring the world of <b>Artificial Intelligence and Machine Learning</b>.
-My goal is to build <b>intelligent, data-driven applications</b> by combining mobile development with AI technologies.
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
 </p>
 
-<hr/>
+---
 
-<!-- JOURNEY -->
-<h3>🚀 My Journey</h3>
-<ul>
-  <li><b>The Foundation:</b> Built real-world mobile applications using Flutter & Android with Firebase integrations.</li>
-  <li><b>The Transition:</b> Currently diving deep into AI & Machine Learning, focusing on data science and predictive modeling.</li>
-  <li><b>The Vision:</b> To become an AI Engineer who deploys ML models into mobile and web applications.</li>
-  <li><b>Currently Learning:</b> Python, Machine Learning, Deep Learning, PyTorch, Flask.</li>
-</ul>
+### 🤖 AI & Machine Learning
 
-<hr/>
-
-<!-- CONTACT -->
-<ul>
-  <li>📫 How to reach me: <b>noormisha581@gmail.com</b></li>
-  <li>⚡ Fun fact: <b>I love turning mobile apps into intelligent systems 🚀</b></li>
-</ul>
-
-<hr/>
-
-<!-- SOCIALS -->
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/misha-noor-a440" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/miahaehboob12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-</p>
-
-<hr/>
-
-<!-- SKILLS -->
-<h2>🛠️ Skills & Tools</h2>
-
-<h3>📱 Mobile Development</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-</p>
-
-<h3>⚙️ Backend & APIs</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/pallets/flask/main/docs/_static/flask-logo.png" width="40" alt="Flask"/>
-
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
-
-<h3>🤖 AI & Machine Learning</h3>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
 </p>
 
-<h3>🗄️ Databases & Tools</h3>
+- Generative AI
+- AI Integrations
+- Prompt Engineering
+- AI Chatbot Development
+- REST APIs
+- Automation Systems
+
+---
+
+### 🗄️ Databases & Tools
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
-<hr/>
+---
 
-<!-- GITHUB STATS -->
+## 📌 Featured Projects
+
+### 🎓 EDU AI Hub
+AI-powered educational platform with multiple student productivity tools including:
+- Summarizer
+- Paraphraser
+- Study Planner
+- Bio Generator
+- AI Utilities
+
+**Tech Used:** Flask, React, JavaScript, Generative AI
+
+---
+
+### 💬 Chatbitify AI
+Business-focused AI chatbot platform for automation and customer interaction.
+
+**Tech Used:** Python, Flask, Chatbot Development, REST APIs
+
+---
+
+### 🌐 Portfolio Website
+Modern responsive portfolio built with React + TypeScript + Vite featuring:
+- Project showcases
+- Live demos
+- Interactive UI
+- SaaS-inspired design
+
+---
+
+## 📚 Education
+
+🎓 **Bachelor of Science in Computer Science**  
+University of Sargodha
+
+---
+
+## 📜 Certifications
+
+### ✅ Generative AI Course — Akhuwat First
+- Practical AI systems
+- Prompt engineering
+- Chatbot workflows
+- AI integrations
+- Intelligent applications
+
+### ✅ Deloitte Australia Cyber Job Simulation
+- Cybersecurity workflows
+- Log analysis
+- Problem-solving simulations
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+
+  <a href="https://github.com/misha22-code" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40"/>
+  </a>
+</p>
+
+📫 Email: **noormisha581@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=misha22-code&show_icons=true&locale=en&layout=compact" />
 </p>
@@ -95,3 +166,10 @@ My goal is to build <b>intelligent, data-driven applications</b> by combining mo
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misha22-code" />
 </p>
+
+---
+
+## ✨ Vision
+
+My goal is to become a professional AI Engineer & Full Stack Developer capable of building intelligent software systems that solve real-world business problems through modern technology.
+```
